@@ -37,5 +37,6 @@ int main()
     }
     
     cout << "Anti-palindrome";
+
     return 0;
 }
